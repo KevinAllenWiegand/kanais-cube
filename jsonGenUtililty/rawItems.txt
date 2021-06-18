@@ -1,0 +1,1229 @@
+Barbarian
+Weapon
+Ambo's Pride
+Arreat's Law
+Arthef's Spark of Life
+Azurewrath
+Bastion's Revered
+Blade of the Tribes
+Blade of the Warlord
+Blood Brother
+Bovine Bardiche
+Burst of Wrath
+Butcher's Carver
+Cinder Switch
+Coven's Criterion
+Defender of Westmarch
+Dishonored Legacy
+Echoing Fury
+Envious Blade
+Eun-jang-do
+Fjord Cutter
+Freeze of Deflection
+Fulminator
+Fury of the Vanished Peak
+Genzaniku
+Hack
+In-geom
+Mad Monarch's Scepter
+Madawc's Sorrow
+Maximus
+Messerschmidt's Reaver
+Oathkeeper
+Odyn Son
+Remorseless
+Rimeheart
+Schaefer's Hammer
+Scourge
+Sever
+Shard of Hate
+Sky Splitter
+Skycutter
+Solanium
+Soulsmasher
+Stalgard's Decimator
+Standoff
+Sunder
+The Burning Axe of Sankis
+The Butcher's Sickle
+The Executioner
+The Furnace
+The Gavel of Judgement
+The Three Hundreth Spear
+Thunderfury, Blessed Blade of the Windseeker
+Vigilance
+Wall of Man
+Wizardspike
+
+Armor
+Ancient Parthan Defenders
+Andariel's Visage
+Aquila Cuirass
+Boots of Disregard
+Bracers of Destruction
+Bracers of the First Men
+Broken Crown
+Chaingmail
+Chilanik's Chain
+Cindercoat
+Cord of the Sherma
+Custerian Wristguards
+Death Watch Mantle
+Death's Bargain
+Deathseer's Cowl
+Depth Diggers
+Dread Iron
+Fire Walkers
+Frostburn
+Fury of the Ancients
+Girdle of Giants
+Gladiator Gauntlets
+Gloves of Worship
+Goldskin
+Goldwrap
+Harrington Waistguard
+Heart of Iron
+Hexing Pants of Mr. Yan
+Homing Pads
+Ice Climbers
+Illusory Boots
+Insatiable Belt
+Irontoe Mudsputters
+Krelm's Buff Belt
+Krelm's Buff Bracers
+Lamentation
+Leoric's Crown
+Lut Socks
+Magefist
+Mantle of Channeling
+Mortick's Brace
+Nemesis Bracers
+Pauldrons of the Skeleton King
+Pox Faulds
+Pride of Cassius
+Pride's Fall
+Promise of Glory
+Razor Strop
+Reaper's Wraps
+Saffron Wrap
+Sanguinary Bracers
+Sash of Knives
+Sebor's Nightmare
+Shi Mizu's Haori
+Skular's Salvation
+Skull of Resonance
+Spaulders of Zakara
+St. Archew's Gage
+Stone Gauntlets
+String of Ears
+Strongarm Bracers
+Tasker and Theo
+The Undisputed Champion
+Thundergod's Vigor
+Vambraces of Secheron
+Vile Ward
+Warzechian Armguards
+
+Jewelry
+Arcstone
+Avarice Band
+Band of Hollow Whispers
+Band of Might
+Broken Promises
+Bul-Kathos's Wedding Band
+Convention of Elements
+Countess Julia's Cameo
+Dovu Energy Trap
+Golden Gorget of Leoric
+Haunt of Vaxo
+Hellfire Ring
+Justice Lantern
+Krede's Flame
+Kymbo's Gold
+Mara's Kaleidoscope
+Moonlight Ward
+Nagelring
+Obsidian Ring of the Zodiac
+Oculus Ring
+Overwhelming Desire
+Pandemonium Loop
+Puzzle Ring
+Rakoff's Glass of Life
+Rechel's Ring of Larceny
+Ring of Royal Grandeur
+Rogar's Huge Stone
+Skull Grasp
+Squirt's Necklace
+Talisman of Aranoch
+The Ess of Johan
+The Flavor of Time
+The Star of Azkaranth
+Unity
+Wyrdward
+Xephirian Amulet
+
+
+
+
+
+
+Crusader
+Weapon
+Akarat's Awakening
+Akkhan's Addendum
+Akkhan's Leniency
+Arthef's Spark of Life
+Azurewrath
+Baleful Remnant
+Blade of Prophecy
+Blood Brother
+Bovine Bardiche
+Burst of Wrath
+Butcher's Carver
+Cam's Rebuttal
+Cinder Switch
+Coven's Criterion
+Darklight
+Defender of Westmarch
+Denial
+Eberli Charo
+Echoing Fury
+Envious Blade
+Eun-jang-do
+Faithful Memory
+Fate of the Fell
+Flail of the Ascended
+Freeze of Deflection
+Frydehr's Wrath
+Fulminator
+Genzaniku
+Golden Flense
+Golden Scourge
+Guard of Johanna
+Gyrfalcon's Foote
+Hack
+Hallowed Bulwark
+Hellskull
+In-geom
+Inviolable Faith
+Ivory Tower
+Jace's Hammer of Vigilance
+Jekangbord
+Johanna's Argument
+Justinian's Mercy
+Kassar's Retribution
+Mad Monarch's Scepter
+Maximus
+Messerschmidt's Reaver
+Odyn Son
+Piro Marella
+Rimeheart
+Salvation
+Schaefer's Hammer
+Scourge
+Sever
+Shard of Hate
+Shield of Fury
+Sky Splitter
+Skycutter
+Skywarden
+Solanium
+Soulsmasher
+Stalgard's Decimator
+Sublime Conviction
+Sunder
+Swiftmount
+The Burning Axe of Sankis
+The Butcher's Sickle
+The Executioner
+The Final Witness
+The Furnace
+The Mortal Drama
+Thunderfury, Blessed Blade of the Windseeker
+Unrelenting Phalanx
+Vigilance
+Vo'Toyias Spiker
+Wall of Man
+Wizardspike
+
+Armor
+Akkhan's Manacles
+Ancient Parthan Defenders
+Andariel's Visage
+Angel Hair Braid
+Aquila Cuirass
+Armor of the Kind Regent
+Belt of the Trove
+Blessed of Haull
+Boots of Disregard
+Bracer of Fury
+Broken Crown
+Chaingmail
+Cindercoat
+Cord of the Sherma
+Custerian Wristguards
+Death Watch Mantle
+Death's Bargain
+Deathseer's Cowl
+Depth Diggers
+Drakon's Lesson
+Fire Walkers
+Frostburn
+Gabriel's Vambraces
+Gladiator Gauntlets
+Gloves of Worship
+Goldskin
+Goldwrap
+Hammer Jammers
+Harrington Waistguard
+Heart of Iron
+Hexing Pants of Mr. Yan
+Homing Pads
+Ice Climbers
+Illusory Boots
+Insatiable Belt
+Irontoe Mudsputters
+Khassett's Cord of Righteousness
+Krelm's Buff Belt
+Krelm's Buff Bracers
+Leoric's Crown
+Magefist
+Mantle of Channeling
+Nemesis Bracers
+Omnislash
+Pauldrons of the Skeleton King
+Pox Faulds
+Pride's Fall
+Promise of Glory
+Razor Strop
+Reaper's Wraps
+Sacred Harness
+Sanguinary Vambraces
+Sash of Knives
+Sebor's Nightmare
+Shi Mizu's Haori
+Spaulders of Zakara
+St. Archew's Gage
+Stone Gauntlets
+String of Ears
+Strongarm Bracers
+Tasker and Theo
+Thundergod's Vigor
+Warhelm of Kassar
+Warzechian Armguards
+
+Jewelry
+Arcstone
+Avarice Band
+Band of Hollow Whispers
+Broken Promises
+Bul-Kathos's Wedding Band
+Convention of Elements
+Countess Julia's Cameo
+Dovu Energy Trap
+Eternal Union
+Golden Gorget of Leoric
+Haunt of Vaxo
+Hellfire Ring
+Justice Lantern
+Krede's Flame
+Kymbo's Gold
+Mara's Kaleidoscope
+Moonlight Ward
+Nagelring
+Obsidian Ring of the Zodiac
+Oculus Ring
+Overwhelming Desire
+Pandemonium Loop
+Puzzle Ring
+Rakoff's Glass of Life
+Rechel's Ring of Larceny
+Ring of Royal Grandeur
+Rogar's Huge Stone
+Squirt's Necklace
+Talisman of Aranoch
+The Ess of Johan
+The Flavor of Time
+The Star of Azkaranth
+Unity
+Wyrdward
+Xephirian Amulet
+
+
+
+
+
+
+DemonHunter
+Weapon
+Augustine's Panacea
+Azurewrath
+Bombardier's Rucksack
+Buriza-Do Kyanon
+Calamity
+Chanon Bolter
+Cluckeye
+Coven's Criterion
+Danetta's Revenge
+Danetta's Spite
+Dawn
+Dead Man's Legacy
+Defender of Westmarch
+Demon Machine
+Echoing Fury
+Emimei's Duffel
+Envious Blade
+Eun-jang-do
+Fortress Ballista
+Freeze of Deflection
+Fulminator
+Genzaniku
+Hack
+Hellrack
+Helltrapper
+Holy Point Shot
+In-geom
+K'mar Tenclip
+Karlei's Point
+Kridershot
+Leonine Bow of Hashir
+Lianna's Wings
+Lord Greenstone's Fan
+Mad Monarch's Scepter
+Manticore
+Odyn Son
+Odyssey's End
+Pus Spitter
+Rimeheart
+Sever
+Shard of Hate
+Sin Seekers
+Sky Splitter
+Skycutter
+Solanium
+Spines of Seeting Hatred
+Sword of Ill Will
+The Burning Axe of Sankis
+The Butcher's Sickle
+The Demon's Demise
+The Ninth Cirri Satchel
+The Raven's Wing
+Thunderfury, Blessed Blade of the Windseeker
+Valla's Bequest
+Wall of Man
+Wizardspike
+Wojahnni Assaulter
+Yang's Recurve
+
+Armor
+Ancient Parthan Defenders
+Andariel's Visage
+Aquila Cuirass
+Beckon Sail
+Blackfeather
+Boots of Disregard
+Broken Crown
+Cape of the Dark Night
+Chain of Shadows
+Chaingmail
+Cindercoat
+Cloak of Deception
+Cord of the Sherma
+Crashing Rain
+Custerian Wristguards
+Death Watch Mantle
+Death's Bargain
+Deathseer's Cowl
+Depth Diggers
+Fire Walkers
+Frostburn
+Gladiator Gauntlets
+Gloves of Worship
+Goldskin
+Goldwrap
+Harrington Waistguard
+Heart of Iron
+Hellcat Waistguard
+Hexing Pants of Mr. Yan
+Homing Pads
+Hunter's Wrath
+Ice Climbers
+Illusory Boots
+Insatiable Belt
+Irontoe Mudsputters
+Krelm's Buff Belt
+Krelm's Buff Bracers
+Leoric's Crown
+Magefist
+Mantle of Channeling
+Nemesis Bracers
+Omryn's Chain
+Pauldrons of the Skeleton King
+Pox Faulds
+Pride's Fall
+Promise of Glory
+Razor Strop
+Reaper's Wraps
+Sanguinary Vambraces
+Sash of Knives
+Sebor's Nightmare
+Shi Mizu's Haori
+Spaulders of Zakara
+St. Archew's Gage
+Stone Gauntlets
+String of Ears
+Strongarm Bracers
+Tasker and Theo
+The Cloak of the Garwulf
+Thundergod's Vigor
+Trag'Oul Coils
+Visage of Gunes
+Warzechian Armguards
+Wraps of Clarity
+Zoey's Secret
+
+Jewelry
+Arcstone
+Avarice Band
+Band of Hollow Whispers
+Broken Promises
+Bul-Kathos's Wedding Band
+Convention of Elements
+Countess Julia's Cameo
+Dovu Energy Trap
+Elusive Ring
+Golden Gorget of Leoric
+Haunt of Vaxo
+Hellfire Ring
+Justice Lantern
+Krede's Flame
+Kymbo's Gold
+Mara's Kaleidoscope
+Moonlight Ward
+Nagelring
+Obsidian Ring of the Zodiac
+Oculus Ring
+Overwhelming Desire
+Pandemonium Loop
+Puzzle Ring
+Rakoff's Glass of Life
+Rechel's Ring of Larceny
+Ring of Royal Grandeur
+Rogar's Huge Stone
+Squirt's Necklace
+Talisman of Aranoch
+The Ess of Johan
+The Flavor of Time
+The Star of Azkaranth
+Unity
+Wyrdward
+Xephirian Amulet
+
+
+
+
+
+Monk
+Weapon
+Ahavarion, Spear of Lycander
+Arthef's Spark of Life
+Azurewrath
+Balance
+Blood Brother
+Bovine Bardiche
+Burst of Wrath
+Butcher's Carver
+Cinder Switch
+Coven's Criterion
+Crystal Fist
+Defender of Westmarch
+Echoing Fury
+Envious Blade
+Eun-jang-do
+Fleshrake
+Flying Dragon
+Freeze of Deflection
+Fulminator
+Genzaniku
+Hack
+In-geom
+Incense Torch of the Grand Temple
+Jawbreaker
+Kyoshiro's Blade
+Lion's Claw
+Mad Monarch's Scepter
+Maloth's Focus
+Maximus
+Messerschmidt's Reaver
+Odyn Son
+Rabid Strike
+Rimeheart
+Scarbringer
+Schaefer's Hammer
+Scourge
+Sever
+Shard of Hate
+Sky Splitter
+Skycutter
+Solanium
+Soulsmasher
+Stalgard's Decimator
+Sunder
+The Burning Axe of Sankis
+The Butcher's Sickle
+The Executioner
+The First of Az'Turrasq
+The Flow of Eternity
+The Furnace
+The Tormentor
+Thunderfury, Blessed Blade of the Windseeker
+Vengeful Wind
+Vigilance
+Wall of Man
+Warstaff of General Quang
+Wizardspike
+Won Khim Lau
+
+Armor
+Ancient Parthan Defenders
+Andariel's Visage
+Aquila Cuirass
+Binding of the Lost
+Bindings of the Lesser Gods
+Boots of Disregard
+Broken Crown
+Cesar's Memento
+Chaingmail
+Cindercoat
+Cord of the Sherma
+Custerian Wristguards
+Death Watch Mantle
+Death's Bargain
+Deathseer's Cowl
+Depth Diggers
+Eye of Peshkov
+Fire Walkers
+Frostburn
+Gladiator Gauntlets
+Gloves of Worship
+Goldskin
+Goldwrap
+Gungdo Gear
+Gyana Na Kashu
+Harrington Waistguard
+Heart of Iron
+Hexing Pants of Mr. Yan
+Homing Pads
+Ice Climbers
+Illusory Boots
+Insatiable Belt
+Irontoe Mudsputters
+Kekegi's Unbreakable Spirit
+Krelm's Buff Belt
+Krelm's Buff Bracers
+Kyoshiro's Soul
+Lefebvre's Soliloquy
+Leoric's Crown
+Madstone
+Magefist
+Mantle of Channeling
+Nemesis Bracers
+Pauldrons of the Skeleton King
+Pinto's Pride
+Pox Faulds
+Pride's Fall
+Promise of Glory
+Razor Strop
+Reaper's Wraps
+Rivera Dancers
+Sanguinary Vambraces
+Sash of Knives
+Sebor's Nightmare
+Shi Mizu's Haori
+Spaulders of Zakara
+Spirit Guards
+St. Archew's Gage
+Stone Gauntlets
+String of Ears
+Strongarm Bracers
+Tasker and Theo
+The Crudest Boots
+The Laws of Seph
+The Mind's Eye
+Thundergod's Vigor
+Tzo Krin's Gaze
+Warzechian Armguards
+
+Jewelry
+Arcstone
+Avarice Band
+Band of Hollow Whispers
+Band of the Rue Chambers
+Broken Promises
+Bul-Kathos's Wedding Band
+Convention of Elements
+Countess Julia's Cameo
+Dovu Energy Trap
+Golden Gorget of Leoric
+Haunt of Vaxo
+Hellfire Ring
+Justice Lantern
+Krede's Flame
+Kymbo's Gold
+Mara's Kaleidoscope
+Moonlight Ward
+Nagelring
+Obsidian Ring of the Zodiac
+Oculus Ring
+Overwhelming Desire
+Pandemonium Loop
+Puzzle Ring
+Rakoff's Glass of Life
+Rechel's Ring of Larceny
+Ring of Royal Grandeur
+Rogar's Huge Stone
+Squirt's Necklace
+Talisman of Aranoch
+The Ess of Johan
+The Flavor of Time
+The Star of Azkaranth
+Unity
+Wyrdward
+Xephirian Amulet
+
+
+
+
+
+Necromancer
+Weapon
+Ahavarion, Spear of Lycander
+Arthef's Spark of Life
+Azurewrath
+Blood Brother
+Bloodtide Blade
+Bone Ringer
+Burst of Wrath
+Butcher's Carver
+Cinder Switch
+Coven's Criterion
+Defender of Westmarch
+Echoing Fury
+Envious Blade
+Eun-jang-do
+Freeze of Deflection
+Fulminator
+Funerary Pick
+Genzaniku
+Hack
+In-geom
+Iron Rose
+Leger's Disdain
+Lost Time
+Mad Monarch's Scepter
+Maloth's Focus
+Maltorius' Petrified Spike
+Maximus
+Messerschmidt's Reaver
+Nayr's Black Death
+Odyn Son
+Reilena's Shadowhook
+Rimeheart
+Schaefer's Hammer
+Scourge
+Scythe of the Cycle
+Sever
+Shard of Hate
+Sky Splitter
+Skycutter
+Solanium
+Soulsmasher
+Spear of Jairo
+Stalgard's Decimator
+Sunder
+The Burning Axe of Sankis
+The Butcher's Sickle
+The Executioner
+The Furnace
+The Tormentor
+Thunderfury, Blessed Blade of the Windseeker
+Trag'Oul's Corroded Fang
+Wall of Man
+Wizardspike
+
+Armor
+Ancient Parthan Defenders
+Andariel's Visage
+Aquila Cuirass
+Bloodsong Mail
+Boots of Disregard
+Broken Crown
+Bryner's Journey
+Chaingmail
+Cindercoat
+Cord of the Sherma
+Corpsewhisper Pauldrons
+Custerian Wristguards
+Dayntee's Binding
+Death Watch Mantle
+Death's Bargain
+Deathseer's Cowl
+Defiler Cuisses
+Depth Diggers
+Fate's Vow
+Fire Walkers
+Frostburn
+Gladiator Gauntlets
+Gloves of Worship
+Goldskin
+Goldwrap
+Golemskin Breeches
+Grasps of Essence
+Harrington Waistguard
+Heart of Iron
+Hexing Pants of Mr. Yan
+Homing Pads
+Ice Climbers
+Illusory Boots
+Insatiable Belt
+Irontoe Mudsputters
+Krelm's Buff Belt
+Krelm's Buff Bracers
+Leoric's Crown
+Magefist
+Mantle of Channeling
+Mask of Scarlet Death
+Moribund Gauntlets
+Nemesis Bracers
+Pauldrons of the Skeleton King
+Pox Faulds
+Pride's Fall
+Promise of Glory
+Razeth's Volition
+Razor Strop
+Reaper's Wraps
+Requiem Cereplate
+Sanguinary Vambraces
+Sash of Knives
+Sebor's Nightmare
+Shi Mizu's Haori
+Spaulders of Zakara
+St. Archew's Gage
+Steuart's Greaves
+Stone Gauntlets
+String of Ears
+Strongarm Bracers
+Tasker and Theo
+Thundergod's Vigor
+Warzechian Armguards
+
+Jewelry
+Arcstone
+Avarice Band
+Band of Hollow Whispers
+Brigg's Wrath
+Broken Promises
+Bul-Kathos's Wedding Band
+Circle of Nailuj's Evol
+Convention of Elements
+Countess Julia's Cameo
+Dovu Energy Trap
+Golden Gorget of Leoric
+Haunt of Vaxo
+Haunted Visions
+Hellfire Ring
+Justice Lantern
+Krede's Flame
+Krysbin's Sentence
+Kymbo's Gold
+Lornelle's Sunstone
+Mara's Kaleidoscope
+Moonlight Ward
+Nagelring
+Obsidian Ring of the Zodiac
+Oculus Ring
+Overwhelming Desire
+Pandemonium Loop
+Puzzle Ring
+Rakoff's Glass of Life
+Rechel's Ring of Larceny
+Ring of Royal Grandeur
+Rogar's Huge Stone
+Squirt's Necklace
+Talisman of Aranoch
+The Ess of Johan
+The Flavor of Time
+The Johnstone
+The Star of Azkaranth
+Unity
+Wisdom of Kalan
+Wyrdward
+Xephirian Amulet
+
+
+
+
+
+WitchDoctor
+Weapon
+Ahavarion, Spear of Lycander
+Anessazi Edge
+Arthef's Spark of Life
+Azurewrath
+Blood Brother
+Bovine Bardiche
+Burst of Wrath
+Butcher's Carver
+Cinder Switch
+Cluckeye
+Coven's Criterion
+Deadly Rebirth
+Defender of Westmarch
+Demon Machine
+Echoing Fury
+Envious Blade
+Eun-jang-do
+Freeze of Deflection
+Fulminator
+Gazing Demise
+Genzaniku
+Hack
+Hellrack
+Henri's Perquisition
+Homunculus
+In-geom
+Last Breath
+Mad Monarch's Scepter
+Maloth's Focus
+Maximus
+Messerschmidt's Reaver
+Mordullu's Promise
+Odyn Son
+Pus Spitter
+Rhen'ho Flayer
+Rimeheart
+Sacred Harvester
+Schaefer's Hammer
+Scourge
+Scrimshaw
+Sever
+Shard of Hate
+Shukrani's Triumph
+Sky Splitter
+Skycutter
+Solanium
+Soulsmasher
+Spite
+Staff of Chiroptera
+Stalgard's Decimator
+Starmetal Kukri
+SuWong Diviner
+Sunder
+The Barber
+The Burning Axe of Sankis
+The Butcher's Sickle
+The Dagger of Darts
+The Executioner
+The Furnace
+The Gidbinn
+The Raven's Wing
+The Spider Queen's Grasp
+The Tormentor
+Thing of the Deep
+Thunderfury, Blessed Blade of the Windseeker
+Uhkapian Serpent
+Vigilance
+Vile Hive
+Voo's Juicer
+Wall of Man
+Wilken's Reach
+Wizardspike
+Wormwood
+
+Armor
+Ancient Parthan Defenders
+Andariel's Visage
+Aquila Cuirass
+Bakuli Jungle Wraps
+Belt of Transcendence
+Boots of Disregard
+Broken Crown
+Carnevil
+Chaingmail
+Cindercoat
+Coils of the First Spider
+Cord of the Sherma
+Custerian Wristguards
+Death Watch Mantle
+Death's Bargain
+Deathseer's Cowl
+Depth Diggers
+Fire Walkers
+Frostburn
+Gladiator Gauntlets
+Gloves of Worship
+Goldskin
+Goldwrap
+Harrington Waistguard
+Haunting Girdle
+Heart of Iron
+Hexing Pants of Mr. Yan
+Homing Pads
+Hwoj Wrap
+Ice Climbers
+Illusory Boots
+Insatiable Belt
+Irontoe Mudsputters
+Jeram's Bracers
+Krelm's Buff Belt
+Krelm's Buff Bracers
+Lakumba's Ornament
+Leoric's Crown
+Magefist
+Mantle of Channeling
+Mask of Jeram
+Nemesis Bracers
+Pauldrons of the Skeleton King
+Pox Faulds
+Pride's Fall
+Promise of Glory
+Quetzalcoatl
+Razor Strop
+Reaper's Wraps
+Sanguinary Vambraces
+Sash of Knives
+Sebor's Nightmare
+Shi Mizu's Haori
+Spaulders of Zakara
+St. Archew's Gage
+Stone Gauntlets
+String of Ears
+Strongarm Bracers
+Swamp Land Walkers
+Tasker and Theo
+The Grin Reaper
+Thundergod's Vigor
+Tiklandian Visage
+Visage of Giyua
+Warzechian Armguards
+
+Jewelry
+Arcstone
+Avarice Band
+Band of Hollow Whispers
+Broken Promises
+Bul-Kathos's Wedding Band
+Convention of Elements
+Countess Julia's Cameo
+Dovu Energy Trap
+Golden Gorget of Leoric
+Haunt of Vaxo
+Hellfire Ring
+Justice Lantern
+Krede's Flame
+Kymbo's Gold
+Mara's Kaleidoscope
+Moonlight Ward
+Nagelring
+Obsidian Ring of the Zodiac
+Oculus Ring
+Overwhelming Desire
+Pandemonium Loop
+Puzzle Ring
+Rakoff's Glass of Life
+Rechel's Ring of Larceny
+Ring of Emptiness
+Ring of Royal Grandeur
+Rogar's Huge Stone
+Squirt's Necklace
+Talisman of Aranoch
+The Ess of Johan
+The Flavor of Time
+The Short Man's Finger
+The Star of Azkaranth
+The Tall Man's Finger
+Unity
+Wyrdward
+Xephirian Amulet
+
+
+
+
+
+Wizard
+Weapon
+Aether Walker
+Ahavarion, Spear of Lycander
+Arthef's Spark of Life
+Azurewrath
+Blood Brother
+Burst of Wrath
+Butcher's Carver
+Cinder Switch
+Cluckeye
+Cosmic Strand
+Coven's Criterion
+Deathwish
+Defender of Westmarch
+Demon Machine
+Echoing Fury
+Envious Blade
+Etched Sigil
+Eun-jang-do
+Fragment of Destiny
+Freeze of Deflection
+Fulminator
+Genzaniku
+Gesture of Orpheus
+Hack
+Hellrack
+In-geom
+Light of Grace
+Mad Monarch's Scepter
+Maloth's Focus
+Maximus
+Messerschmidt's Reaver
+Mirrorball
+Myken's Ball of Hate
+Odyn Son
+Orb of Infinite Depth
+Primordial Soul
+Pus Spitter
+Rimeheart
+Schaefer's Hammer
+Scourge
+Serpent's Sparker
+Sever
+Shard of Hate
+Sky Splitter
+Skycutter
+Slorak's Madness
+Solanium
+Soulsmasher
+Stalgard's Decimator
+Starfire
+Sunder
+The Burning Axe of Sankis
+The Butcher's Sickle
+The Executioner
+The Furnace
+The Grand Vizier
+The Oculus
+The Raven's Wing
+The Smoldering Core
+The Tormentor
+The Twisted Sword
+Thunderfury, Blessed Blade of the Windseeker
+Triumvirate
+Unstable Scepter
+Valthek's Rebuke
+Wall of Man
+Wand of Woh
+Winter Flurry
+Wizardspike
+
+Armor
+Ancient Parthan Defenders
+Andariel's Visage
+Aquila Cuirass
+Archmage's Vicalyke
+Ashnagarr's Blood Bracer
+Boots of Disregard
+Broken Crown
+Chaingmail
+Cindercoat
+Cord of the Sherma
+Crown of the Primus
+Custerian Wristguards
+Dark Mage's Shade
+Death Watch Mantle
+Death's Bargain
+Deathseer's Cowl
+Depth Diggers
+Fazula's Improbable Chain
+Fire Walkers
+Frostburn
+Gladiator Gauntlets
+Gloves of Worship
+Goldskin
+Goldwrap
+Harrington Waistguard
+Heart of Iron
+Hergbrash's Binding
+Hexing Pants of Mr. Yan
+Homing Pads
+Ice Climbers
+Illusory Boots
+Insatiable Belt
+Irontoe Mudsputters
+Jang's Envelopment
+Krelm's Buff Belt
+Krelm's Buff Bracers
+Leoric's Crown
+Magefist
+Mantle of Channeling
+Nemesis Bracers
+Nilfur's Boast
+Pauldrons of the Skeleton King
+Pox Faulds
+Pride's Fall
+Promise of Glory
+Ranslor's Folly
+Razor Strop
+Reaper's Wraps
+Sanguinary Vambraces
+Sash of Knives
+Sebor's Nightmare
+Shi Mizu's Haori
+Spaulders of Zakara
+St. Archew's Gage
+Stone Gauntlets
+Storm Crow
+String of Ears
+Strongarm Bracers
+Tasker and Theo
+The Magistrate
+The Shame of Delsere
+The Swami
+Thundergod's Vigor
+Velvet Camaral
+Warzechian Armguards
+
+Jewelry
+Arcstone
+Avarice Band
+Band of Hollow Whispers
+Broken Promises
+Bul-Kathos's Wedding Band
+Convention of Elements
+Countess Julia's Cameo
+Dovu Energy Trap
+Golden Gorget of Leoric
+Halo of Arlyse
+Halo of Karini
+Haunt of Vaxo
+Hellfire Ring
+Justice Lantern
+Krede's Flame
+Kymbo's Gold
+Manald Heal
+Mara's Kaleidoscope
+Moonlight Ward
+Nagelring
+Obsidian Ring of the Zodiac
+Oculus Ring
+Overwhelming Desire
+Pandemonium Loop
+Puzzle Ring
+Rakoff's Glass of Life
+Rechel's Ring of Larceny
+Ring of Royal Grandeur
+Rogar's Huge Stone
+Squirt's Necklace
+Talisman of Aranoch
+The Ess of Johan
+The Flavor of Time
+The Star of Azkaranth
+Unity
+Wyrdward
+Xephirian Amulet

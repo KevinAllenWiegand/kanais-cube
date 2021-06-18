@@ -1,0 +1,12 @@
+{
+  "name": "D3_Item_JSON_Gen",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {},
+  "keywords": [],
+  "author": "Kevin Wiegand",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}

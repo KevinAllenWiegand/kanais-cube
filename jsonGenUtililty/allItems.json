@@ -1,0 +1,3360 @@
+{
+    "items": [
+        {
+            "id": "ambospride",
+            "name": "Ambo's Pride",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "arreatslaw",
+            "name": "Arreat's Law",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "arthefssparkoflife",
+            "name": "Arthef's Spark of Life",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "azurewrath",
+            "name": "Azurewrath",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "bastionsrevered",
+            "name": "Bastion's Revered",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "bladeofthetribes",
+            "name": "Blade of the Tribes",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "bladeofthewarlord",
+            "name": "Blade of the Warlord",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "bloodbrother",
+            "name": "Blood Brother",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "bovinebardiche",
+            "name": "Bovine Bardiche",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "burstofwrath",
+            "name": "Burst of Wrath",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "butcherscarver",
+            "name": "Butcher's Carver",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "cinderswitch",
+            "name": "Cinder Switch",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "covenscriterion",
+            "name": "Coven's Criterion",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "defenderofwestmarch",
+            "name": "Defender of Westmarch",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "dishonoredlegacy",
+            "name": "Dishonored Legacy",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "echoingfury",
+            "name": "Echoing Fury",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "enviousblade",
+            "name": "Envious Blade",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "eunjangdo",
+            "name": "Eun-jang-do",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "fjordcutter",
+            "name": "Fjord Cutter",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "freezeofdeflection",
+            "name": "Freeze of Deflection",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "fulminator",
+            "name": "Fulminator",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "furyofthevanishedpeak",
+            "name": "Fury of the Vanished Peak",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "genzaniku",
+            "name": "Genzaniku",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "hack",
+            "name": "Hack",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "ingeom",
+            "name": "In-geom",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "madmonarchsscepter",
+            "name": "Mad Monarch's Scepter",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "madawcssorrow",
+            "name": "Madawc's Sorrow",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "maximus",
+            "name": "Maximus",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "messerschmidtsreaver",
+            "name": "Messerschmidt's Reaver",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "oathkeeper",
+            "name": "Oathkeeper",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "odynson",
+            "name": "Odyn Son",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "remorseless",
+            "name": "Remorseless",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "rimeheart",
+            "name": "Rimeheart",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "schaefershammer",
+            "name": "Schaefer's Hammer",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "scourge",
+            "name": "Scourge",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "sever",
+            "name": "Sever",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "shardofhate",
+            "name": "Shard of Hate",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "skysplitter",
+            "name": "Sky Splitter",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "skycutter",
+            "name": "Skycutter",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "solanium",
+            "name": "Solanium",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "soulsmasher",
+            "name": "Soulsmasher",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "stalgardsdecimator",
+            "name": "Stalgard's Decimator",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "standoff",
+            "name": "Standoff",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "sunder",
+            "name": "Sunder",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "theburningaxeofsankis",
+            "name": "The Burning Axe of Sankis",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "thebutcherssickle",
+            "name": "The Butcher's Sickle",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "theexecutioner",
+            "name": "The Executioner",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "thefurnace",
+            "name": "The Furnace",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "thegavelofjudgement",
+            "name": "The Gavel of Judgement",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "thethreehundrethspear",
+            "name": "The Three Hundreth Spear",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "thunderfuryblessedbladeofthewindseeker",
+            "name": "Thunderfury, Blessed Blade of the Windseeker",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "vigilance",
+            "name": "Vigilance",
+            "type": "Weapon",
+            "classes": [
+                "Barbarian",
+                "Crusader",
+                "Monk",
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "wallofman",
+            "name": "Wall of Man",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "wizardspike",
+            "name": "Wizardspike",
+            "type": "Weapon",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "ancientparthandefenders",
+            "name": "Ancient Parthan Defenders",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "andarielsvisage",
+            "name": "Andariel's Visage",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "aquilacuirass",
+            "name": "Aquila Cuirass",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "bootsofdisregard",
+            "name": "Boots of Disregard",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "bracersofdestruction",
+            "name": "Bracers of Destruction",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "bracersofthefirstmen",
+            "name": "Bracers of the First Men",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "brokencrown",
+            "name": "Broken Crown",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "chaingmail",
+            "name": "Chaingmail",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "chilanikschain",
+            "name": "Chilanik's Chain",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "cindercoat",
+            "name": "Cindercoat",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "cordofthesherma",
+            "name": "Cord of the Sherma",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "custerianwristguards",
+            "name": "Custerian Wristguards",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "deathwatchmantle",
+            "name": "Death Watch Mantle",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "deathsbargain",
+            "name": "Death's Bargain",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "deathseerscowl",
+            "name": "Deathseer's Cowl",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "depthdiggers",
+            "name": "Depth Diggers",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "dreadiron",
+            "name": "Dread Iron",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "firewalkers",
+            "name": "Fire Walkers",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "frostburn",
+            "name": "Frostburn",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "furyoftheancients",
+            "name": "Fury of the Ancients",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "girdleofgiants",
+            "name": "Girdle of Giants",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "gladiatorgauntlets",
+            "name": "Gladiator Gauntlets",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "glovesofworship",
+            "name": "Gloves of Worship",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "goldskin",
+            "name": "Goldskin",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "goldwrap",
+            "name": "Goldwrap",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "harringtonwaistguard",
+            "name": "Harrington Waistguard",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "heartofiron",
+            "name": "Heart of Iron",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "hexingpantsofmryan",
+            "name": "Hexing Pants of Mr. Yan",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "homingpads",
+            "name": "Homing Pads",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "iceclimbers",
+            "name": "Ice Climbers",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "illusoryboots",
+            "name": "Illusory Boots",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "insatiablebelt",
+            "name": "Insatiable Belt",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "irontoemudsputters",
+            "name": "Irontoe Mudsputters",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "krelmsbuffbelt",
+            "name": "Krelm's Buff Belt",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "krelmsbuffbracers",
+            "name": "Krelm's Buff Bracers",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "lamentation",
+            "name": "Lamentation",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "leoricscrown",
+            "name": "Leoric's Crown",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "lutsocks",
+            "name": "Lut Socks",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "magefist",
+            "name": "Magefist",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "mantleofchanneling",
+            "name": "Mantle of Channeling",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "morticksbrace",
+            "name": "Mortick's Brace",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "nemesisbracers",
+            "name": "Nemesis Bracers",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "pauldronsoftheskeletonking",
+            "name": "Pauldrons of the Skeleton King",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "poxfaulds",
+            "name": "Pox Faulds",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "prideofcassius",
+            "name": "Pride of Cassius",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "pridesfall",
+            "name": "Pride's Fall",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "promiseofglory",
+            "name": "Promise of Glory",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "razorstrop",
+            "name": "Razor Strop",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "reaperswraps",
+            "name": "Reaper's Wraps",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "saffronwrap",
+            "name": "Saffron Wrap",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "sanguinarybracers",
+            "name": "Sanguinary Bracers",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "sashofknives",
+            "name": "Sash of Knives",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "seborsnightmare",
+            "name": "Sebor's Nightmare",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "shimizushaori",
+            "name": "Shi Mizu's Haori",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "skularssalvation",
+            "name": "Skular's Salvation",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "skullofresonance",
+            "name": "Skull of Resonance",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "spauldersofzakara",
+            "name": "Spaulders of Zakara",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "starchewsgage",
+            "name": "St. Archew's Gage",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "stonegauntlets",
+            "name": "Stone Gauntlets",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "stringofears",
+            "name": "String of Ears",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "strongarmbracers",
+            "name": "Strongarm Bracers",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "taskerandtheo",
+            "name": "Tasker and Theo",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "theundisputedchampion",
+            "name": "The Undisputed Champion",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "thundergodsvigor",
+            "name": "Thundergod's Vigor",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "vambracesofsecheron",
+            "name": "Vambraces of Secheron",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "vileward",
+            "name": "Vile Ward",
+            "type": "Armor",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "warzechianarmguards",
+            "name": "Warzechian Armguards",
+            "type": "Armor",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "arcstone",
+            "name": "Arcstone",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "avariceband",
+            "name": "Avarice Band",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "bandofhollowwhispers",
+            "name": "Band of Hollow Whispers",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "bandofmight",
+            "name": "Band of Might",
+            "type": "Jewelry",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "brokenpromises",
+            "name": "Broken Promises",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "bulkathossweddingband",
+            "name": "Bul-Kathos's Wedding Band",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "conventionofelements",
+            "name": "Convention of Elements",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "countessjuliascameo",
+            "name": "Countess Julia's Cameo",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "dovuenergytrap",
+            "name": "Dovu Energy Trap",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "goldengorgetofleoric",
+            "name": "Golden Gorget of Leoric",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "hauntofvaxo",
+            "name": "Haunt of Vaxo",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "hellfirering",
+            "name": "Hellfire Ring",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "justicelantern",
+            "name": "Justice Lantern",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "kredesflame",
+            "name": "Krede's Flame",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "kymbosgold",
+            "name": "Kymbo's Gold",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "maraskaleidoscope",
+            "name": "Mara's Kaleidoscope",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "moonlightward",
+            "name": "Moonlight Ward",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "nagelring",
+            "name": "Nagelring",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "obsidianringofthezodiac",
+            "name": "Obsidian Ring of the Zodiac",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "oculusring",
+            "name": "Oculus Ring",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "overwhelmingdesire",
+            "name": "Overwhelming Desire",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "pandemoniumloop",
+            "name": "Pandemonium Loop",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "puzzlering",
+            "name": "Puzzle Ring",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "rakoffsglassoflife",
+            "name": "Rakoff's Glass of Life",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "rechelsringoflarceny",
+            "name": "Rechel's Ring of Larceny",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "ringofroyalgrandeur",
+            "name": "Ring of Royal Grandeur",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "rogarshugestone",
+            "name": "Rogar's Huge Stone",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "skullgrasp",
+            "name": "Skull Grasp",
+            "type": "Jewelry",
+            "classes": [
+                "Barbarian"
+            ]
+        },
+        {
+            "id": "squirtsnecklace",
+            "name": "Squirt's Necklace",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "talismanofaranoch",
+            "name": "Talisman of Aranoch",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "theessofjohan",
+            "name": "The Ess of Johan",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "theflavoroftime",
+            "name": "The Flavor of Time",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "thestarofazkaranth",
+            "name": "The Star of Azkaranth",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "unity",
+            "name": "Unity",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "wyrdward",
+            "name": "Wyrdward",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "xephirianamulet",
+            "name": "Xephirian Amulet",
+            "type": "Jewelry",
+            "classes": [
+                "All"
+            ]
+        },
+        {
+            "id": "akaratsawakening",
+            "name": "Akarat's Awakening",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "akkhansaddendum",
+            "name": "Akkhan's Addendum",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "akkhansleniency",
+            "name": "Akkhan's Leniency",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "balefulremnant",
+            "name": "Baleful Remnant",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "bladeofprophecy",
+            "name": "Blade of Prophecy",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "camsrebuttal",
+            "name": "Cam's Rebuttal",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "darklight",
+            "name": "Darklight",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "denial",
+            "name": "Denial",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "eberlicharo",
+            "name": "Eberli Charo",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "faithfulmemory",
+            "name": "Faithful Memory",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "fateofthefell",
+            "name": "Fate of the Fell",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "flailoftheascended",
+            "name": "Flail of the Ascended",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "frydehrswrath",
+            "name": "Frydehr's Wrath",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "goldenflense",
+            "name": "Golden Flense",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "goldenscourge",
+            "name": "Golden Scourge",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "guardofjohanna",
+            "name": "Guard of Johanna",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "gyrfalconsfoote",
+            "name": "Gyrfalcon's Foote",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "hallowedbulwark",
+            "name": "Hallowed Bulwark",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "hellskull",
+            "name": "Hellskull",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "inviolablefaith",
+            "name": "Inviolable Faith",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "ivorytower",
+            "name": "Ivory Tower",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "jaceshammerofvigilance",
+            "name": "Jace's Hammer of Vigilance",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "jekangbord",
+            "name": "Jekangbord",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "johannasargument",
+            "name": "Johanna's Argument",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "justiniansmercy",
+            "name": "Justinian's Mercy",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "kassarsretribution",
+            "name": "Kassar's Retribution",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "piromarella",
+            "name": "Piro Marella",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "salvation",
+            "name": "Salvation",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "shieldoffury",
+            "name": "Shield of Fury",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "skywarden",
+            "name": "Skywarden",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "sublimeconviction",
+            "name": "Sublime Conviction",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "swiftmount",
+            "name": "Swiftmount",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "thefinalwitness",
+            "name": "The Final Witness",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "themortaldrama",
+            "name": "The Mortal Drama",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "unrelentingphalanx",
+            "name": "Unrelenting Phalanx",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "votoyiasspiker",
+            "name": "Vo'Toyias Spiker",
+            "type": "Weapon",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "akkhansmanacles",
+            "name": "Akkhan's Manacles",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "angelhairbraid",
+            "name": "Angel Hair Braid",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "armorofthekindregent",
+            "name": "Armor of the Kind Regent",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "beltofthetrove",
+            "name": "Belt of the Trove",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "blessedofhaull",
+            "name": "Blessed of Haull",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "braceroffury",
+            "name": "Bracer of Fury",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "drakonslesson",
+            "name": "Drakon's Lesson",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "gabrielsvambraces",
+            "name": "Gabriel's Vambraces",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "hammerjammers",
+            "name": "Hammer Jammers",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "khassettscordofrighteousness",
+            "name": "Khassett's Cord of Righteousness",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "omnislash",
+            "name": "Omnislash",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "sacredharness",
+            "name": "Sacred Harness",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "sanguinaryvambraces",
+            "name": "Sanguinary Vambraces",
+            "type": "Armor",
+            "classes": [
+                "Crusader",
+                "DemonHunter",
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "warhelmofkassar",
+            "name": "Warhelm of Kassar",
+            "type": "Armor",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "eternalunion",
+            "name": "Eternal Union",
+            "type": "Jewelry",
+            "classes": [
+                "Crusader"
+            ]
+        },
+        {
+            "id": "augustinespanacea",
+            "name": "Augustine's Panacea",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "bombardiersrucksack",
+            "name": "Bombardier's Rucksack",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "burizadokyanon",
+            "name": "Buriza-Do Kyanon",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "calamity",
+            "name": "Calamity",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "chanonbolter",
+            "name": "Chanon Bolter",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "cluckeye",
+            "name": "Cluckeye",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "danettasrevenge",
+            "name": "Danetta's Revenge",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "danettasspite",
+            "name": "Danetta's Spite",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "dawn",
+            "name": "Dawn",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "deadmanslegacy",
+            "name": "Dead Man's Legacy",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "demonmachine",
+            "name": "Demon Machine",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "emimeisduffel",
+            "name": "Emimei's Duffel",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "fortressballista",
+            "name": "Fortress Ballista",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "hellrack",
+            "name": "Hellrack",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "helltrapper",
+            "name": "Helltrapper",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "holypointshot",
+            "name": "Holy Point Shot",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "kmartenclip",
+            "name": "K'mar Tenclip",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "karleispoint",
+            "name": "Karlei's Point",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "kridershot",
+            "name": "Kridershot",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "leoninebowofhashir",
+            "name": "Leonine Bow of Hashir",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "liannaswings",
+            "name": "Lianna's Wings",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "lordgreenstonesfan",
+            "name": "Lord Greenstone's Fan",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "manticore",
+            "name": "Manticore",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "odysseysend",
+            "name": "Odyssey's End",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "pusspitter",
+            "name": "Pus Spitter",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "sinseekers",
+            "name": "Sin Seekers",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "spinesofseetinghatred",
+            "name": "Spines of Seeting Hatred",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "swordofillwill",
+            "name": "Sword of Ill Will",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "thedemonsdemise",
+            "name": "The Demon's Demise",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "theninthcirrisatchel",
+            "name": "The Ninth Cirri Satchel",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "theravenswing",
+            "name": "The Raven's Wing",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "vallasbequest",
+            "name": "Valla's Bequest",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "wojahnniassaulter",
+            "name": "Wojahnni Assaulter",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "yangsrecurve",
+            "name": "Yang's Recurve",
+            "type": "Weapon",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "beckonsail",
+            "name": "Beckon Sail",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "blackfeather",
+            "name": "Blackfeather",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "capeofthedarknight",
+            "name": "Cape of the Dark Night",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "chainofshadows",
+            "name": "Chain of Shadows",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "cloakofdeception",
+            "name": "Cloak of Deception",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "crashingrain",
+            "name": "Crashing Rain",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "hellcatwaistguard",
+            "name": "Hellcat Waistguard",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "hunterswrath",
+            "name": "Hunter's Wrath",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "omrynschain",
+            "name": "Omryn's Chain",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "thecloakofthegarwulf",
+            "name": "The Cloak of the Garwulf",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "tragoulcoils",
+            "name": "Trag'Oul Coils",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "visageofgunes",
+            "name": "Visage of Gunes",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "wrapsofclarity",
+            "name": "Wraps of Clarity",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "zoeyssecret",
+            "name": "Zoey's Secret",
+            "type": "Armor",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "elusivering",
+            "name": "Elusive Ring",
+            "type": "Jewelry",
+            "classes": [
+                "DemonHunter"
+            ]
+        },
+        {
+            "id": "ahavarionspearoflycander",
+            "name": "Ahavarion, Spear of Lycander",
+            "type": "Weapon",
+            "classes": [
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "balance",
+            "name": "Balance",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "crystalfist",
+            "name": "Crystal Fist",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "fleshrake",
+            "name": "Fleshrake",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "flyingdragon",
+            "name": "Flying Dragon",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "incensetorchofthegrandtemple",
+            "name": "Incense Torch of the Grand Temple",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "jawbreaker",
+            "name": "Jawbreaker",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "kyoshirosblade",
+            "name": "Kyoshiro's Blade",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "lionsclaw",
+            "name": "Lion's Claw",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "malothsfocus",
+            "name": "Maloth's Focus",
+            "type": "Weapon",
+            "classes": [
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "rabidstrike",
+            "name": "Rabid Strike",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "scarbringer",
+            "name": "Scarbringer",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "thefirstofazturrasq",
+            "name": "The First of Az'Turrasq",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "theflowofeternity",
+            "name": "The Flow of Eternity",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "thetormentor",
+            "name": "The Tormentor",
+            "type": "Weapon",
+            "classes": [
+                "Monk",
+                "Necromancer",
+                "WitchDoctor",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "vengefulwind",
+            "name": "Vengeful Wind",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "warstaffofgeneralquang",
+            "name": "Warstaff of General Quang",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "wonkhimlau",
+            "name": "Won Khim Lau",
+            "type": "Weapon",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "bindingofthelost",
+            "name": "Binding of the Lost",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "bindingsofthelessergods",
+            "name": "Bindings of the Lesser Gods",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "cesarsmemento",
+            "name": "Cesar's Memento",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "eyeofpeshkov",
+            "name": "Eye of Peshkov",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "gungdogear",
+            "name": "Gungdo Gear",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "gyananakashu",
+            "name": "Gyana Na Kashu",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "kekegisunbreakablespirit",
+            "name": "Kekegi's Unbreakable Spirit",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "kyoshirossoul",
+            "name": "Kyoshiro's Soul",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "lefebvressoliloquy",
+            "name": "Lefebvre's Soliloquy",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "madstone",
+            "name": "Madstone",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "pintospride",
+            "name": "Pinto's Pride",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "riveradancers",
+            "name": "Rivera Dancers",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "spiritguards",
+            "name": "Spirit Guards",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "thecrudestboots",
+            "name": "The Crudest Boots",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "thelawsofseph",
+            "name": "The Laws of Seph",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "themindseye",
+            "name": "The Mind's Eye",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "tzokrinsgaze",
+            "name": "Tzo Krin's Gaze",
+            "type": "Armor",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "bandoftheruechambers",
+            "name": "Band of the Rue Chambers",
+            "type": "Jewelry",
+            "classes": [
+                "Monk"
+            ]
+        },
+        {
+            "id": "bloodtideblade",
+            "name": "Bloodtide Blade",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "boneringer",
+            "name": "Bone Ringer",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "funerarypick",
+            "name": "Funerary Pick",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "ironrose",
+            "name": "Iron Rose",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "legersdisdain",
+            "name": "Leger's Disdain",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "losttime",
+            "name": "Lost Time",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "maltoriuspetrifiedspike",
+            "name": "Maltorius' Petrified Spike",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "nayrsblackdeath",
+            "name": "Nayr's Black Death",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "reilenasshadowhook",
+            "name": "Reilena's Shadowhook",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "scytheofthecycle",
+            "name": "Scythe of the Cycle",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "spearofjairo",
+            "name": "Spear of Jairo",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "tragoulscorrodedfang",
+            "name": "Trag'Oul's Corroded Fang",
+            "type": "Weapon",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "bloodsongmail",
+            "name": "Bloodsong Mail",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "brynersjourney",
+            "name": "Bryner's Journey",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "corpsewhisperpauldrons",
+            "name": "Corpsewhisper Pauldrons",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "daynteesbinding",
+            "name": "Dayntee's Binding",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "defilercuisses",
+            "name": "Defiler Cuisses",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "fatesvow",
+            "name": "Fate's Vow",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "golemskinbreeches",
+            "name": "Golemskin Breeches",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "graspsofessence",
+            "name": "Grasps of Essence",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "maskofscarletdeath",
+            "name": "Mask of Scarlet Death",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "moribundgauntlets",
+            "name": "Moribund Gauntlets",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "razethsvolition",
+            "name": "Razeth's Volition",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "requiemcereplate",
+            "name": "Requiem Cereplate",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "steuartsgreaves",
+            "name": "Steuart's Greaves",
+            "type": "Armor",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "briggswrath",
+            "name": "Brigg's Wrath",
+            "type": "Jewelry",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "circleofnailujsevol",
+            "name": "Circle of Nailuj's Evol",
+            "type": "Jewelry",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "hauntedvisions",
+            "name": "Haunted Visions",
+            "type": "Jewelry",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "krysbinssentence",
+            "name": "Krysbin's Sentence",
+            "type": "Jewelry",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "lornellessunstone",
+            "name": "Lornelle's Sunstone",
+            "type": "Jewelry",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "thejohnstone",
+            "name": "The Johnstone",
+            "type": "Jewelry",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "wisdomofkalan",
+            "name": "Wisdom of Kalan",
+            "type": "Jewelry",
+            "classes": [
+                "Necromancer"
+            ]
+        },
+        {
+            "id": "anessaziedge",
+            "name": "Anessazi Edge",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "deadlyrebirth",
+            "name": "Deadly Rebirth",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "gazingdemise",
+            "name": "Gazing Demise",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "henrisperquisition",
+            "name": "Henri's Perquisition",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "homunculus",
+            "name": "Homunculus",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "lastbreath",
+            "name": "Last Breath",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "mordulluspromise",
+            "name": "Mordullu's Promise",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "rhenhoflayer",
+            "name": "Rhen'ho Flayer",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "sacredharvester",
+            "name": "Sacred Harvester",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "scrimshaw",
+            "name": "Scrimshaw",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "shukranistriumph",
+            "name": "Shukrani's Triumph",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "spite",
+            "name": "Spite",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "staffofchiroptera",
+            "name": "Staff of Chiroptera",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "starmetalkukri",
+            "name": "Starmetal Kukri",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "suwongdiviner",
+            "name": "SuWong Diviner",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "thebarber",
+            "name": "The Barber",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "thedaggerofdarts",
+            "name": "The Dagger of Darts",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "thegidbinn",
+            "name": "The Gidbinn",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "thespiderqueensgrasp",
+            "name": "The Spider Queen's Grasp",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "thingofthedeep",
+            "name": "Thing of the Deep",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "uhkapianserpent",
+            "name": "Uhkapian Serpent",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "vilehive",
+            "name": "Vile Hive",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "voosjuicer",
+            "name": "Voo's Juicer",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "wilkensreach",
+            "name": "Wilken's Reach",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "wormwood",
+            "name": "Wormwood",
+            "type": "Weapon",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "bakulijunglewraps",
+            "name": "Bakuli Jungle Wraps",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "beltoftranscendence",
+            "name": "Belt of Transcendence",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "carnevil",
+            "name": "Carnevil",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "coilsofthefirstspider",
+            "name": "Coils of the First Spider",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "hauntinggirdle",
+            "name": "Haunting Girdle",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "hwojwrap",
+            "name": "Hwoj Wrap",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "jeramsbracers",
+            "name": "Jeram's Bracers",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "lakumbasornament",
+            "name": "Lakumba's Ornament",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "maskofjeram",
+            "name": "Mask of Jeram",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "quetzalcoatl",
+            "name": "Quetzalcoatl",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "swamplandwalkers",
+            "name": "Swamp Land Walkers",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "thegrinreaper",
+            "name": "The Grin Reaper",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "tiklandianvisage",
+            "name": "Tiklandian Visage",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "visageofgiyua",
+            "name": "Visage of Giyua",
+            "type": "Armor",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "ringofemptiness",
+            "name": "Ring of Emptiness",
+            "type": "Jewelry",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "theshortmansfinger",
+            "name": "The Short Man's Finger",
+            "type": "Jewelry",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "thetallmansfinger",
+            "name": "The Tall Man's Finger",
+            "type": "Jewelry",
+            "classes": [
+                "WitchDoctor"
+            ]
+        },
+        {
+            "id": "aetherwalker",
+            "name": "Aether Walker",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "cosmicstrand",
+            "name": "Cosmic Strand",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "deathwish",
+            "name": "Deathwish",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "etchedsigil",
+            "name": "Etched Sigil",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "fragmentofdestiny",
+            "name": "Fragment of Destiny",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "gestureoforpheus",
+            "name": "Gesture of Orpheus",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "lightofgrace",
+            "name": "Light of Grace",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "mirrorball",
+            "name": "Mirrorball",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "mykensballofhate",
+            "name": "Myken's Ball of Hate",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "orbofinfinitedepth",
+            "name": "Orb of Infinite Depth",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "primordialsoul",
+            "name": "Primordial Soul",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "serpentssparker",
+            "name": "Serpent's Sparker",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "sloraksmadness",
+            "name": "Slorak's Madness",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "starfire",
+            "name": "Starfire",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "thegrandvizier",
+            "name": "The Grand Vizier",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "theoculus",
+            "name": "The Oculus",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "thesmolderingcore",
+            "name": "The Smoldering Core",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "thetwistedsword",
+            "name": "The Twisted Sword",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "triumvirate",
+            "name": "Triumvirate",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "unstablescepter",
+            "name": "Unstable Scepter",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "valtheksrebuke",
+            "name": "Valthek's Rebuke",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "wandofwoh",
+            "name": "Wand of Woh",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "winterflurry",
+            "name": "Winter Flurry",
+            "type": "Weapon",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "archmagesvicalyke",
+            "name": "Archmage's Vicalyke",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "ashnagarrsbloodbracer",
+            "name": "Ashnagarr's Blood Bracer",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "crownoftheprimus",
+            "name": "Crown of the Primus",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "darkmagesshade",
+            "name": "Dark Mage's Shade",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "fazulasimprobablechain",
+            "name": "Fazula's Improbable Chain",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "hergbrashsbinding",
+            "name": "Hergbrash's Binding",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "jangsenvelopment",
+            "name": "Jang's Envelopment",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "nilfursboast",
+            "name": "Nilfur's Boast",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "ranslorsfolly",
+            "name": "Ranslor's Folly",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "stormcrow",
+            "name": "Storm Crow",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "themagistrate",
+            "name": "The Magistrate",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "theshameofdelsere",
+            "name": "The Shame of Delsere",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "theswami",
+            "name": "The Swami",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "velvetcamaral",
+            "name": "Velvet Camaral",
+            "type": "Armor",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "haloofarlyse",
+            "name": "Halo of Arlyse",
+            "type": "Jewelry",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "haloofkarini",
+            "name": "Halo of Karini",
+            "type": "Jewelry",
+            "classes": [
+                "Wizard"
+            ]
+        },
+        {
+            "id": "manaldheal",
+            "name": "Manald Heal",
+            "type": "Jewelry",
+            "classes": [
+                "Wizard"
+            ]
+        }
+    ]
+}
